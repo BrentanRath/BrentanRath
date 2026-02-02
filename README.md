@@ -18,3 +18,5 @@ Projects I have contrubuted to:
 - Awsome-Minecraft
 - SilentJosephine/Useful-stuff 
 - Kaympe20/REHACTED
+- alec-jensen/hackclub-scrapyard
+- jkay03/Sync-Discord-Bot
