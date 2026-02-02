@@ -1,18 +1,20 @@
 README.md Under Construction
 
-Recent Commits
-
+Currently Developing On: RathHacks/Blur-Tool
 
 | Recent Activity  | Blog Posts | Recent Stars |
 | ------------- | ------------- | ------------- |
 | Content Cell  | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  | Content Cell  |
 
+
+
+
 ## Places I have Worked (tech related)
-- RathHacks
-- StoneWorks Developer
-- REHACTED
-- Freelance Minecraft Server Development
+- > RathHacks
+- > StoneWorks Developer
+- > REHACTED
+- > Freelance Minecraft Server Development
 
 
 ## Things I have worked on
