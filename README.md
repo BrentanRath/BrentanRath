@@ -1,5 +1,14 @@
 vREADME.md Under Construction
 
+Recent Commits
+
+
+| Recent Activity  | Blog Posts | Recent Stars |
+| ------------- | ------------- | ------------- |
+| Content Cell  | Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  | Content Cell  |
+
+
 
 Projects I have made on and are public:
 - GMU-Email-Perks-List
