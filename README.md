@@ -8,7 +8,14 @@ Recent Commits
 | Content Cell  | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  | Content Cell  |
 
+## Places I have Worked (tech related)
+- RathHacks
+- StoneWorks Developer
+- REHACTED
+- Freelance Minecraft Server Development
 
+
+## Things I have worked on
 
 Projects I have made on and are public:
 - GMU-Email-Perks-List
