@@ -15,6 +15,7 @@ Currently Developing On: RathHacks/Blur-Tool
 
 ## Timeline/Progress Project Repositores (Making real repo for it soon)
 - https://github.com/BrentanRath/Discord-Community-Cleaner/ - Dec 2024
+- https://github.com/BrentanRath/Portfolio-Version-1 - Jan 2024
 - https://github.com/BrentanRath/Three.js-Animated-Loading-Screen - Jan 2023
 
 
