@@ -17,7 +17,7 @@ Currently Developing On: RathHacks/Blur-Tool
 - > Freelance Minecraft Server Development
 
 
-## Things I have worked on
+## Things I have created on
 
 Projects I have made on and are public:
 - GMU-Email-Perks-List
@@ -27,6 +27,7 @@ Projects I have made on and are public:
 - ArmorHistory
 - Idle-Miner-Tycoon-Automation-Script-Project Public
 - Lazy-Blogger Public
+- Hidden-Image-Detector-Extension
 
 Projects I have contrubuted to:
 - RathHacks/STEMFAIR-Website
