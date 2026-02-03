@@ -17,6 +17,10 @@ Currently Developing On: RathHacks/Blur-Tool
 - > Freelance Minecraft Server Development
 
 
+# Timeline/Progress Project Repositores (Making real repo for it soon)
+- https://github.com/BrentanRath/Three.js-Animated-Loading-Screen
+
+
 ## Things I have created on
 
 Projects I have made on and are public:
