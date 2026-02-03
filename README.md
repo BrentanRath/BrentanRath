@@ -2,10 +2,6 @@ README.md Under Construction
 
 Currently Developing On: RathHacks/Blur-Tool
 
-| Recent Activity  | Blog Posts | Recent Stars |
-| ------------- | ------------- | ------------- |
-| Content Cell  | Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  | Content Cell  |
 
 
 
