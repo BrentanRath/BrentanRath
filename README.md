@@ -8,7 +8,6 @@ Currently Developing On: RathHacks/Blur-Tool
 
 ## Places I have Worked (tech related)
 - > RathHacks
-- > StoneWorks Developer
 - > REHACTED
 - > Freelance Minecraft Server Development
 
